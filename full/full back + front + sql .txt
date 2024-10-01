@@ -1,0 +1,7 @@
+Creacion de una base de datos simple de una sola tabla llamada:
+ tbl_student con student_id, email, firt_name,last_name
+creacion del back con springboot 
+creacion del front con react 
+
+adjuntos fotos 
+
